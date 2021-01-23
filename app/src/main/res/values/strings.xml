@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">МОЯ ЗАКУПКА</string>
+    <integer name="com_vk_sdk_AppId">6410414</integer>
+</resources>
